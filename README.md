@@ -50,6 +50,6 @@ In this step I had to install MySQL inorder to install osTicket. MySQL is requir
 <img src="https://i.imgur.com/ZyDW9dU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step I downloaded the osTicket package, uploaded it to my web server, accessed the installation URL in my browser, created a database, set appropriate file permissions, and then followed the on-screen instructions to complete the installation process.
 </p>
 <br />
