@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/abP4fmc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I opened the control panel and clicked programs and features to select Internet Information Services (IIS). Once selected I expanded the (ISS) feature and verified that the required components are enabled.
+I opened the control panel and clicked Programs and Features to select Internet Information Services (IIS) in this step. Once selected IFeaturesd the (ISS) feature and verified that the required components are enabled.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ In this step I opened the control panel and clicked programs and features to sel
 <img src="https://i.imgur.com/sVkdwcR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I had to install MySQL inorder to install osTicket. MySQL is required for osTicket to store all the critical information related to tickets,users,agents,and system settings.
+In this step, I had to install MySQL to install osTicket. MySQL is required for osTicket to store all the critical information related to tickets, users, agents, and system settings.
 </p>
 <br />
 
@@ -50,6 +50,17 @@ In this step I had to install MySQL inorder to install osTicket. MySQL is requir
 <img src="https://i.imgur.com/ZyDW9dU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I downloaded the osTicket package, uploaded it to my web server, accessed the installation URL in my browser, created a database, set appropriate file permissions, and then followed the on-screen instructions to complete the installation process.
+In this step, I downloaded the osTicket package, uploaded it to my web server, accessed the installation URL in my browser, created a database, set appropriate file permissions, and followed the on-screen instructions to complete the installation process.
 </p>
 <br />
+<img src="https://i.imgur.com/hW7Ej61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, I will rename the following file from ost-SAMPLEconfig.php to  ost-config.php.
+</p>
+<br />
+<img src="https://i.imgur.com/QeULzBu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, I will assign permissions to ost-contig.php and remove all inherited permissions.
+</p>
+<br />
+
+<img src="https://i.imgur.com/a9oyb4A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now I will continue to set up osticket in the browser.
